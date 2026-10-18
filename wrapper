@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+      background-color: #000000;
+    }
+    iframe {
+      width: 100%;
+      height: 107%; /* Lekko powiększony iframe chowa baner cookies na dole */
+      border: none;
+    }
+  </style>
+</head>
+<body>
+  <iframe src="https://sites.google.com/view/cinematics-news/newsS"></iframe>
+</body>
+</html>
